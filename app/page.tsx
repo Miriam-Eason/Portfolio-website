@@ -126,21 +126,21 @@ const projects = [
     title: "Projcew Puraner",
     category: "Projeects",
     description: "Hiam pjasm anat ovvtk ataim encicjcit arcit pootjsrits tuid vibt wriati mi rootleel.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/portfolio/portfolio-1.png?height=400&width=400",
   },
   {
     id: 2,
     title: "Micancl Duinc",
     category: "Projeects",
     description: "Hiam pjcaweem oechesinigj enccioe tiioc olinicctteea tu vilt clasnut tir totl tioal.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/portfolio/portfolio-2.png?height=400&width=400",
   },
   {
     id: 3,
     title: "Mion Quck",
     category: "Projeects",
     description: "Hiam peun dujnt wirit ciieoj aocicjo cinq oilih pouhlciclet ou vit oncaert oube cihet.",
-    image: "/placeholder.svg?height=400&width=400",
+    image: "/portfolio/portfolio-3.png?height=400&width=400",
   },
 ]
 
